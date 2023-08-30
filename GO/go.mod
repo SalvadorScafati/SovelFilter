@@ -1,4 +1,4 @@
-module main
+module github.com/SalvadorScafati/SovelFilter
 
 go 1.21.0
 
